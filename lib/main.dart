@@ -1,8 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_clock_app/config/palette.dart';
 import 'package:flutter_clock_app/screens/screens.dart';
-import 'package:flutter_clock_app/widgets/clock/clock.dart';
-import 'package:flutter_clock_app/widgets/clock/clock_text.dart';
 import 'package:flutter_clock_app/widgets/widgets.dart';
 
 void main() => runApp(new MyApp());
