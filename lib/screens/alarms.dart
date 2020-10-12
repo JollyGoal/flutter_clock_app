@@ -3,6 +3,8 @@ import 'package:flutter_clock_app/config/palette.dart';
 import 'package:flutter_clock_app/widgets/widgets.dart';
 
 class Alarms extends StatelessWidget {
+  const Alarms({Key key}) : super(key: key);
+
   @override
   Widget build(BuildContext context) {
     return ListView(

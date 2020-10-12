@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter_clock_app/config/palette.dart';
 
 class Records extends StatelessWidget {
+  const Records({Key key}) : super(key: key);
+
   final double _smallFontSize = 12.0;
   final double _valFontSize = 30.0;
   final FontWeight _smallFontWeight = FontWeight.w500;

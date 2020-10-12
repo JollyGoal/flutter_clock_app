@@ -90,9 +90,9 @@ class AppClock extends StatelessWidget {
           body: TabBarView(
             children: [
               Center(
-                child: Alarms(),
+                child: Alarms(key: PageStorageKey('alarmsScreen')),
               ),
-              Records(),
+              Records(key: PageStorageKey('recordsScreen')),
               // Profile(),
             ],
           ),
