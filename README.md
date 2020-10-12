@@ -1,16 +1,22 @@
-# flutter_clock_app
+# Clock UI
 
-A new Flutter application.
+A [Flutter](https://flutter.dev/) application.
 
-## Getting Started
+## External Packages
 
-This project is a starting point for a Flutter application.
+* flutter_launcher_icons: ^0.8.1
+* flutter_launcher_name: ^0.0.1
+* lottie: ^0.6.0
 
-A few resources to get you started if this is your first Flutter project:
+## Android
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+[Download APK](release/app-release.apk)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+![screenshot1](release/screenchot1.jpg)
+![screenshot2](release/screenchot2.jpg)
+
+## Credits
+
+* Style [Dribbble](https://dribbble.com/shots/6259293-Sleep-Tracker-App)
+* Clock mechanism [Philip Okonkwo](https://medium.com/@NPKompleet/creating-an-analog-clock-in-flutter-i-68def107d9f4)
