@@ -1,8 +1,6 @@
 # Clock UI
 
-A [Flutter](https://flutter.dev/) application.
-
-![Reference](https://cdn.dribbble.com/users/594915/screenshots/6259293/clock.jpg)
+A [Flutter](https://flutter.dev/) application for representing my UI creating skills.
 
 ## External Packages
 
@@ -15,8 +13,8 @@ A [Flutter](https://flutter.dev/) application.
 [Download APK](release/app-release.apk)
 
 ## Screenshots
-![screenshot1](release/screenchot1.jpg)
-![screenshot2](release/screenchot2.jpg)
+|---|---|
+|![screenshot1](release/screenchot1.jpg)|![screenshot2](release/screenchot2.jpg)|
 
 ## Credits
 
