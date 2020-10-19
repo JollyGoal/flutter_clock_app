@@ -13,8 +13,8 @@ A [Flutter](https://flutter.dev/) application for representing my UI creating sk
 [Download APK](release/app-release.apk)
 
 ## Screenshots
-|---|---|
 |![screenshot1](release/screenchot1.jpg)|![screenshot2](release/screenchot2.jpg)|
+|---|---|
 
 ## Credits
 
